@@ -11,6 +11,15 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   getting_started/index
+
+This is a reference to getting started: :ref:`getting_started/index`.
+
+This is another reference to getting started, with a custom title: :ref:`Custom Title <getting_started/index>`.
+
+:ref:`getting_started/index//subtitle_1`
+
+:ref:`Custom Title for Subtitle 2 <getting_started/index//subtitle_2>`
 
 
 Indices and tables
@@ -19,4 +28,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
